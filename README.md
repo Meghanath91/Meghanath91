@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Meghanath ! I'm a Junior Full stack developer at MedEssist with strong interest in projects that require conceptual and analytical thinking
+I'm Meghanath ! I'm a Junior Full stack developer at MedEssist with strong interest in projects that require conceptual and analytical thinking
 <!--
 **Meghanath91/Meghanath91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
